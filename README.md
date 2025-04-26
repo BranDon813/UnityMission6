@@ -1,4 +1,4 @@
-<h1 align="center">Snake Boxes</h1>
+<h1 align="center">3D Snake Boxes</h1>
 
 ![](https://github.com/BillyFrcs/SnakeBoxes/blob/main/Assets/Gif/SnakeBoxes.gif)
 
